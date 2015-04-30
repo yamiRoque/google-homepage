@@ -1,0 +1,131 @@
+#logoSearch {
+
+margin-top:150px;
+
+}
+
+.logo {
+
+	height: 95px;
+	width: 269px;
+	display:block;
+    margin:auto;
+	
+}
+
+.search {
+
+	width:485px;
+	height:30px;
+	display:block;
+    margin: 25px auto auto auto;
+    outline:none;
+
+
+}
+
+.top {
+	list-style-type: none;
+	text-align:right;
+}
+
+.top li {
+
+	display:inline;
+	padding-right:15px;
+}
+
+html {
+
+	font-family: arial, sans-serif;
+	font-size: small;
+	color: #2D2D2D;
+}
+
+.signIn {
+	color:white;
+	background-color:#3079ED;
+	width:69px;
+	height:28px;
+	border:1px solid #3079ED;
+	border-radius: 2px;
+	font-weight:bold;
+	font-size:13px;
+	outline:none;
+	opacity:.90;
+}
+
+.apps {
+	opacity:.55;
+}
+
+.button1 {
+
+font:bold 11px arial,sans-serif;
+padding:8px;
+background-color:#f5f5f5;;
+color:#444444;
+outline:none;
+border: 1px solid #DBDBDB;
+border-radius:2px;
+margin-right:10px;
+}
+
+.button2 {
+
+font:bold 11px arial,sans-serif;
+padding:8px;
+background-color:#f5f5f5;
+color:#444444;
+outline:none;
+border: 1px solid #DBDBDB;
+border-radius:2px;
+margin-left:10px;
+
+}
+
+.buttonDiv {
+	text-align:center;
+}
+
+li:hover {
+
+	text-decoration:underline;
+}
+
+
+
+#footer {
+	background-color:#f5f5f5;
+	position: absolute;
+    left:0;
+    bottom: 0;
+    height: 40px;
+    width: 100%;
+    border-top:1px solid #DBDBDB;
+    display:inline;
+}
+
+.left li {
+
+	float:left;
+	color:#444444;
+    opacity:.80;
+    padding-right:28px;
+    list-style-type: none;
+    display:inline;
+    font-size:small
+}
+
+.right li{
+
+	float:right;
+	color:#444444;
+    opacity:.80;
+    padding-right:28px;
+    list-style-type: none;
+    display:inline;
+    font-size:small;
+}
+
+
